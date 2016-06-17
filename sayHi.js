@@ -1,4 +1,4 @@
 
 function sayHi(arg) {
-	print("Hello, " + arg + ", welcome to Michael's gitHub..");
+	print("Hello, " + arg + ", welcome to Michael's gitHub..");
 }
