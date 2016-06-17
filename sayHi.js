@@ -15,3 +15,14 @@ function sound(){
 		print("JOY JOY JOY JOY...<3")
 	}
 }
+
+
+function test() {
+	var chen = "MICHAEL";
+	var andy = "ANDREY ";
+
+	sayHi(chen);
+	greetMichael(andy);
+	response2Andrey();
+	sound();
+}
