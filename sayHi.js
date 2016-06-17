@@ -16,13 +16,21 @@ function sound(){
 	}
 }
 
+function greetAndrey(arg){
+	print("Hi Andrey, I am " + arg + "nice to meet you...");
+}
+
+
 
 function test() {
 	var chen = "MICHAEL";
 	var andy = "ANDREY ";
+	var dery= "EL DERIAN";
 
 	sayHi(chen);
 	greetMichael(andy);
 	response2Andrey();
 	sound();
+	greetMichael(dery);
+	greetAndrey(dery);
 }
