@@ -9,3 +9,9 @@ function greetMichael(arg){
 function response2Andrey() {
 	print("LOVE YA! <3");
 }
+
+function sound(){
+	for(;;){
+		print("JOY JOY JOY JOY...<3")
+	}
+}
