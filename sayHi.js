@@ -6,3 +6,6 @@ function greetMichael(arg){
 	print("Hi Michael, I am " + arg + "nice to meet you...");
 }
 
+function response2Andrey() {
+	print("LOVE YA! <3");
+}
